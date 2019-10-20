@@ -23,7 +23,7 @@ What things you need to install the software and how to install them
 
 ## Authors
 
-* **Ryan Thompson** - *Initial work* - [PurpleBooth](https://github.com/rthomp10)
+* **Ryan Thompson** - *Initial work* - [rthomp10](https://github.com/rthomp10)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
