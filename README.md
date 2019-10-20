@@ -6,7 +6,9 @@ Note: The closest clock speed the MAX1000 could get close to a multiple of 2 is 
 
 ## Getting Started
 
-Open the project file (.pqb) and run the .tcl script.
+1. Open the project (.pqb)
+2. Open *Tools -> TCL Scripts...*.
+3. Run the *RTC.tcl* script
 
 ### Prerequisites
 
