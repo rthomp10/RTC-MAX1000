@@ -25,8 +25,6 @@ What things you need to install the software and how to install them
 
 * **Ryan Thompson** - *Initial work* - [rthomp10](https://github.com/rthomp10)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
