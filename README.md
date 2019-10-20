@@ -1,8 +1,8 @@
 # MAX1000 RTC
 
-An RTC made out of a "268.435456 MHz" clock. The USER_BTN will switch the LEDs to representing the 28 bit counter's top 8 bits and the seconds passed.
+An RTC based on a "268.435456 MHz" clock. The LEDs represent the seconds passed by default, but can display the top eight bits of the 28bit counter when the USER_BTN is held.
 
-Note: The closest clock speed the MAX1000 could get close to a multiple of 2 is 268.500000 MHz which is +240.44 ppm off of 268.435456 MHz. This will lose about 21 seconds/day in accuracy.
+Note: The actual clock out of the PLL is 268.500000 MHz which is +240.44 ppm off of 268.435456 MHz. This will lose about 21 seconds/day in accuracy.
 
 ![Block Diagram](block_diagram.jpg)
 
