@@ -7,6 +7,7 @@ Note: The closest clock speed the MAX1000 could get close to a multiple of 2 is 
 ![Block Diagram](block_diagram.jpg)
 
 ## Getting Started
+### Instructions
 
 1. Open the project (.pqb)
 2. Open *Tools -> TCL Scripts...*.
