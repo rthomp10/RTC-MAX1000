@@ -4,7 +4,7 @@ An RTC made out of a "268.435456 MHz" clock. The USER_BTN will switch the LEDs t
 
 Note: The closest clock speed the MAX1000 could get close to a multiple of 2 is 268.500000 MHz which is +240.44 ppm off of 268.435456 MHz. This will lose about 21 seconds/day in accuracy.
 
-## Getting Started
+### Instructions
 
 1. Open the project (.pqb)
 2. Open *Tools -> TCL Scripts...*.
